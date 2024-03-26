@@ -64,7 +64,7 @@ You don't need to use `naruto_parser.py` because you have already gathered all t
 *Here's my own bot:*
 [*Я люблю аниме*](https://t.me/ha2004rembot)
 
-Here's a video where you can see exactly how it works and make sure you watch the video with sound!:
+Here's a video where you can see exactly how it works and _make sure you watch the video with sound_:
 
 https://github.com/zaryana223/bot_anime_project/assets/113456045/e7008d99-71c5-4c02-b857-5745d7d83f95
 
