@@ -1,0 +1,1 @@
+# bot_anime_project
