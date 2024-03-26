@@ -68,6 +68,10 @@ Here's a video where you can see exactly how it works:
 
 <video controls width="400" height="400" src="наруто.MP4" title="Title"></video>
 
+
+https://github.com/zaryana223/bot_anime_project/assets/113456045/e7008d99-71c5-4c02-b857-5745d7d83f95
+
+
 ## Used libraries
 
 *python-telegram-bot==13.4* — for developing bot_anime on the Telegram platform using Python.
