@@ -65,6 +65,9 @@ def send_plot(update: Update, context: CallbackContext):
         chat_id=update.message.chat.id,
         photo=buffer
     )
+    
+    plt.close()
+    
     update.message.reply_text('Вбей номер эпизода, и я покажу тебе список техник')
 
 
